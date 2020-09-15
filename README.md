@@ -8,6 +8,7 @@
 - Doesn't work when multlple `.csproj` files are in the project
   - Some plugins, like [LeanTouch](https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111), introduce these extra files
   - Additional `.csproj` are referenced in `Assembly-CSharp.csproj` similar to below:
+  
     ```
     ...
     <ItemGroup>
