@@ -17,7 +17,7 @@
     </ItemGroup>
     ...
     ```
-  - When running `docfx` in this case, the following warnings are generated
+  - When running `docfx` in this case, the following warnings are generated:
 
     ```
     [20-09-15 04:00:57.025]Warning:[MetadataCommand.ExtractMetadata](/Users/matt.dean/Development/Unity Projects/R and D/DocFXTest/LeanTouch.csproj)Workspace failed with: [Failure] Msbuild failed when processing the file '/Users/matt.dean/Development/Unity Projects/R and D/DocFXTest/LeanTouch.csproj' with message: /Library/Frameworks/Mono.framework/Versions/6.10.0/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets: (1675, 5): The "GetReferenceNearestTargetFrameworkTask" task failed unexpectedly.
