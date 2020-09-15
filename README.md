@@ -3,6 +3,7 @@
 ## Current Issues
 
 ### Inheritance is not always generated from `"build": "xref"`
+
 - Doesn't work when using `.cs` files for `"metadata" : "src"`
 
 - Doesn't work when multlple `.csproj` files are in the project
