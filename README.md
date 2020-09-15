@@ -6,7 +6,7 @@
 - Doesn't work when using `.cs` files for `"metadata" : "src"`
 
 - Doesn't work when multlple `.csproj` files are in the project
-  - Some plugins, like [LeanTouch](https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111), introduce these extra files
+  - Some plugins, like [LeanTouch](https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111), introduce these
   - Additional `.csproj` are referenced in `Assembly-CSharp.csproj` similar to below:
   
     ```
