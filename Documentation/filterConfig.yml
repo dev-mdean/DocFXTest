@@ -1,8 +1,5 @@
 apiRules:
 - include:
-    uidRegex: ^Index
-    type: Namespace
-- include:
     uidRegex: ^Vehicles
     type: Namespace
 - exclude:
