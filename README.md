@@ -1,4 +1,4 @@
-### Inheritance is not generated from `"build": "xref"` in specific cases
+## Inheritance is not generated from `"build": "xref"` in specific cases
 
 - Doesn't work when using `.cs` files for `"metadata" : "src"`
 
