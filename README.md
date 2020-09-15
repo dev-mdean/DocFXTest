@@ -1,6 +1,6 @@
 # DocFXTest
 
-A project used for testing if DocFX can be used to generate documentation from code written for Unity
+A Unity project used for testing DocFX documentation generation
 
 ## Details
 
