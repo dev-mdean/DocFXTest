@@ -1,4 +1,16 @@
+# DocFXTest
+
+A project used for testing if DocFX can be used to generate documentation from code written for Unity
+
+## Details
+---
+- <b>Operating System:</b> macOS Catalina 10.15.6
+- <b>Unity Version:</b> 2019.4.8f1
+- <b>DocFX Version:</b> 2.51.0 (Later versions don't work on my OS)
+
+
 ## Inheritance is not generated from `"build": "xref"` in specific cases
+---
 
 - Doesn't work when using `.cs` files for `"metadata" : "src"`
 
